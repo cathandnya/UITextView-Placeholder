@@ -9,3 +9,4 @@ build
 
 Podfile.lock
 Pods
+/.build
