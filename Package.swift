@@ -18,6 +18,6 @@ let package = Package(
         .target(
             name: "UITextView_Placeholder",
             path: "Sources",
-            publicHeadersPath: "."),
+            publicHeadersPath: "include"),
     ]
 )
